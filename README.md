@@ -1,5 +1,7 @@
 # Signed Receipt
 
+[**Commercial verification engagements — USD 8,000–15,000, court-ready dossier**](https://dshcorrectover.github.io/correctover-recovery-admission/services.html) · [**Independent audit & conformance**](https://dshcorrectover.github.io/correctover-recovery-admission/services.html)
+
 SCITT-style cryptographically signed receipts for MCP runtime behavior evidence.
 
 Implements JCS (RFC 8785) + Ed25519 + Merkle trees.
